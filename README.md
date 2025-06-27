@@ -464,4 +464,4 @@ https://doc.ximmerse.com/sdkconf/unityxrsdk/index.html
 
 该 apk 应用需要通过 `adb` 命令安装至 Rhino X Pro 眼镜中，具体方式参考文章：https://doc.ximmerse.com/sdkconf/unityxrsdk/index.html。
 
-由于项目组测试应用时使用的是本地部署服务，通过反向通道实现公网 IP 的服务访问。因此，如需要对项目进行测试请联系组长——连炜乐同学部署服务，即可进行测试。
+由于项目组测试应用时使用的是本地部署服务，通过反向通道实现公网 IP 的服务访问。因此，如需要对项目进行测试请联系组长——胡鹏飞同学部署服务，即可进行测试。
